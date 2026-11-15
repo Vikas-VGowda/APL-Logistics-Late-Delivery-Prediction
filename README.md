@@ -426,6 +426,3 @@ By combining predictive modeling, data visualization, and an interactive web app
 
 The project demonstrates how machine learning can support data-driven decision-making and contribute to more proactive logistics management.
 
----
-
-**If you find this project interesting, consider giving the repository a ⭐ on GitHub!**
